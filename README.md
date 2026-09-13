@@ -1,4 +1,4 @@
-# Projeto para temperatura 
+# 🌡️Projeto para temperatura🌡️
 
 Este projeto tem a função de analizar a **temperatura** de um laboratório e, com base na informação recebida, retornar uma frase utilizando **estrutura condicional**
 
